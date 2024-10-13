@@ -1,2 +1,2 @@
-# Data Science Tasks for Course 'Data Analyst in IT'
+# Data Science Tasks and Challenges
 ## Documentation and Insights
